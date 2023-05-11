@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ... Random personal projects
+- 🔭 I’m currently working on ...  Personal SAAS projects
 - 💬 Ask me about ... Python,Php,nodejs,react,flask
 - 📫 How to reach me: brianrut3@gmail.com
 
