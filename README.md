@@ -4,7 +4,7 @@
 - 📫 How to reach me: brianrut3@gmail.com
 
 <!--
-**theoreticallybrian/theoreticallybrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**theoreticallybrian/theoreticallybrian** is a ✨ _special_ ✨ repository because its `README.md` 
 
 Here are some ideas to get you started:
 
