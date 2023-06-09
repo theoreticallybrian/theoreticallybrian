@@ -6,7 +6,6 @@
 <!--
 **theoreticallybrian/theoreticallybrian** is a ✨ _special_ ✨ repository because its `README.md` more
 
-Here are some ideas to get you started:
 
 -->
 
