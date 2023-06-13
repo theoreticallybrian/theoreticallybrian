@@ -4,7 +4,7 @@
 - 📫 How to reach me: brianrut3@gmail.com
 
 <!--
-**theoreticallybrian/theoreticallybrian** is a ✨ _special_ ✨ repository because its `README.md` more
+**theoreticallybrian/theoreticallybrian** is a ✨ _special__✨ repository because its `README.md` 
 
 -->
 
