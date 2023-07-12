@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...  Personal SAAS projects
+- 🔭 I’m currently working on ... Learning Unity,Flutter and Android studio
 - 💬 Ask me about ... Python,Php,nodejs,react,flask
 - 📫 How to reach me: brianrut3@gmail.com
 
