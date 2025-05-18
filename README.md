@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ... Learning Unity,Flutter and Android studio
 - 💬 Ask me about ... Python,Php,nodejs,react,flask
-- 📫 How to reach me: brianrut3@gmail.com
+
 
 <!--
 **theoreticallybrian/theoreticallybrian** is a ✨ _special__✨ repository because its `README.md` 
